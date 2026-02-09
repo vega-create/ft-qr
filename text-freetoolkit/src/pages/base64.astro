@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SEO from '../components/SEO.astro';
+import AdSense from '../components/AdSense.astro';
+import Base64 from '../components/tools/Base64';
+---
+
+<BaseLayout>
+  <SEO slot="head" title="Base64 Encoder / Decoder" description="Encode text to Base64 or decode Base64 strings back to plain text." />
+
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <nav class="text-sm text-gray-500 mb-6">
+      <a href="/" class="hover:text-primary-600">Home</a> <span class="mx-2">›</span> <span class="text-gray-900">Base64 Encoder / Decoder</span>
+    </nav>
+
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">Base64 Encoder / Decoder</h1>
+
+    <Base64 client:load />
+
+    <AdSense slot="bottom" />
+  </div>
+</BaseLayout>

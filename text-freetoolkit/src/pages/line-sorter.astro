@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SEO from '../components/SEO.astro';
+import AdSense from '../components/AdSense.astro';
+import LineSorter from '../components/tools/LineSorter';
+---
+
+<BaseLayout>
+  <SEO slot="head" title="Line Sorter" description="Sort lines alphabetically, numerically, by length, or randomly." />
+
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <nav class="text-sm text-gray-500 mb-6">
+      <a href="/" class="hover:text-primary-600">Home</a> <span class="mx-2">›</span> <span class="text-gray-900">Line Sorter</span>
+    </nav>
+
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">Line Sorter</h1>
+
+    <LineSorter client:load />
+
+    <AdSense slot="bottom" />
+  </div>
+</BaseLayout>

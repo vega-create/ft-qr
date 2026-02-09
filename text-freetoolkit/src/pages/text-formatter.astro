@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SEO from '../components/SEO.astro';
+import AdSense from '../components/AdSense.astro';
+import TextFormatter from '../components/tools/TextFormatter';
+---
+
+<BaseLayout>
+  <SEO slot="head" title="Text Formatter" description="Add line numbers, prefixes, suffixes, or wrap text at a specific width." />
+
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <nav class="text-sm text-gray-500 mb-6">
+      <a href="/" class="hover:text-primary-600">Home</a> <span class="mx-2">›</span> <span class="text-gray-900">Text Formatter</span>
+    </nav>
+
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">Text Formatter</h1>
+
+    <TextFormatter client:load />
+
+    <AdSense slot="bottom" />
+  </div>
+</BaseLayout>

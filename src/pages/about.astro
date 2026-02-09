@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SEO from '../components/SEO.astro';
+---
+<BaseLayout>
+  <SEO slot="head" title="About Us" description="About FreeToolkit QR — free QR code generation and scanning tools." />
+  <div class="max-w-3xl mx-auto px-4 py-12">
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">About FreeToolkit QR</h1>
+    <div class="prose prose-gray max-w-none">
+      <p>FreeToolkit QR provides free QR code tools that run entirely in your browser. Generate QR codes for URLs, WiFi, contacts, events, and more. Download as PNG or SVG.</p>
+      <h2>Privacy First</h2><p>All QR code generation happens locally. Your data never leaves your device.</p>
+      <h2>Part of FreeToolkit</h2><p>Part of the <a href="https://freetoolkit.cc" class="text-primary-600">FreeToolkit</a> family of free online tools.</p>
+    </div>
+  </div>
+</BaseLayout>

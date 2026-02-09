@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SEO from '../components/SEO.astro';
+import AdSense from '../components/AdSense.astro';
+import QrScanner from '../components/tools/QrScanner';
+---
+<BaseLayout>
+  <SEO slot="head" title="QR Code Scanner" description="Scan and decode QR codes from uploaded images." />
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <nav class="text-sm text-gray-500 mb-6"><a href="/" class="hover:text-primary-500">Home</a> <span class="mx-2">›</span> <span class="text-gray-900">QR Code Scanner</span></nav>
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">QR Code Scanner</h1>
+    <QrScanner client:load />
+    <AdSense slot="bottom" />
+  </div>
+</BaseLayout>

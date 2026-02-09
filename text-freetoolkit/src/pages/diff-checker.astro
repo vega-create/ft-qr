@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SEO from '../components/SEO.astro';
+import AdSense from '../components/AdSense.astro';
+import DiffChecker from '../components/tools/DiffChecker';
+---
+
+<BaseLayout>
+  <SEO slot="head" title="Text Diff Checker" description="Compare two texts side by side and highlight the differences between them." />
+
+  <div class="max-w-4xl mx-auto px-4 py-8">
+    <nav class="text-sm text-gray-500 mb-6">
+      <a href="/" class="hover:text-primary-600">Home</a> <span class="mx-2">›</span> <span class="text-gray-900">Text Diff Checker</span>
+    </nav>
+
+    <h1 class="text-3xl font-bold text-gray-900 mb-6">Text Diff Checker</h1>
+
+    <DiffChecker client:load />
+
+    <AdSense slot="bottom" />
+  </div>
+</BaseLayout>
