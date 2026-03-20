@@ -15,12 +15,7 @@ faq:
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
 
-<div style="margin: 2rem 0; padding: 1.5rem; background: #f9fafb; border-radius: 12px; border: 1px solid #e5e7eb;">
-<div style="font-weight: 700; font-size: 1rem; margin-bottom: 1rem; color: #111827;">📱 Dynamic Vs Static Qr Codes</div>
-<div style="display: flex; align-items: center; margin-bottom: 0.6rem;"><span style="width: 120px; font-size: 0.8rem; color: #374151;">Static</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 60%; height: 100%; background: linear-gradient(90deg, #3b82f6, #60a5fa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Fixed, free</div></div></div>
-<div style="display: flex; align-items: center; "><span style="width: 120px; font-size: 0.8rem; color: #374151;">Dynamic</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 90%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Trackable, editable</div></div></div>
-</div>
-
+<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem;"><div style="padding: 1rem; background: #eff6ff; border-radius: 10px; border: 1px solid #bfdbfe; text-align: center;"><div style="font-size: 1.2rem;">🔄</div><div style="font-weight: 700; color: #2563eb; font-size: 0.85rem;">Dynamic QR</div><div style="font-size: 0.7rem; color: #6b7280; margin-top: 0.3rem;">Editable after print</div><div style="font-size: 0.7rem; color: #6b7280;">Track scans & location</div><div style="font-size: 0.7rem; color: #6b7280;">Requires subscription</div></div><div style="padding: 1rem; background: #f0fdf4; border-radius: 10px; border: 1px solid #bbf7d0; text-align: center;"><div style="font-size: 1.2rem;">📌</div><div style="font-weight: 700; color: #16a34a; font-size: 0.85rem;">Static QR</div><div style="font-size: 0.7rem; color: #6b7280; margin-top: 0.3rem;">Permanent, unchangeable</div><div style="font-size: 0.7rem; color: #6b7280;">No tracking</div><div style="font-size: 0.7rem; color: #6b7280;">Free forever</div></div></div>
 QR codes come in two fundamental types: static and dynamic. Understanding the difference helps you choose the right approach for your needs.
 
 ## Static QR Codes
