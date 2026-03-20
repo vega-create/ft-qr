@@ -14,8 +14,6 @@ faq:
   - q: "Do QR codes expire?"
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
-
-<div style="margin: 2rem 0; background: #eff6ff; border-radius: 12px; padding: 1rem; border: 1px solid #bfdbfe;"><div style="font-weight: 700; font-size: 0.85rem; color: #1e40af; margin-bottom: 0.6rem;">WiFi QR Code Contains</div><div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.4rem; font-size: 0.75rem;"><div style="background: white; padding: 0.4rem 0.6rem; border-radius: 6px;"><b>SSID:</b> Network name</div><div style="background: white; padding: 0.4rem 0.6rem; border-radius: 6px;"><b>Password:</b> ••••••••</div><div style="background: white; padding: 0.4rem 0.6rem; border-radius: 6px;"><b>Security:</b> WPA2/WPA3</div><div style="background: white; padding: 0.4rem 0.6rem; border-radius: 6px;"><b>Hidden:</b> Yes/No</div></div></div>
 WiFi QR codes let guests connect to your network by scanning a code instead of typing a password. This is convenient for homes, offices, cafes, hotels, and any place that shares WiFi access.
 
 ## How WiFi QR Codes Work

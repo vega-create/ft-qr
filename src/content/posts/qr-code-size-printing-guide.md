@@ -14,8 +14,6 @@ faq:
   - q: "Do QR codes expire?"
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
-
-<div style="margin: 2rem 0; background: #f8fafc; border-radius: 12px; padding: 1.2rem; border: 1px solid #e2e8f0;"><div style="font-weight: 700; font-size: 0.85rem; color: #334155; margin-bottom: 0.8rem;">Minimum QR Code Size by Application</div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 25%; background: #60a5fa; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Business Card: 2cm</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 40%; background: #34d399; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Flyer/Brochure: 3cm</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 70%; background: #f59e0b; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Poster (1m away): 10cm</div></div><div style="display: flex; align-items: center; gap: 0.5rem;"><div style="width: 100%; background: #8b5cf6; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Billboard (10m+): 30cm+</div></div></div>
 QR code size directly affects scannability. Too small and phones cannot read it. Too large and it wastes space. The right size depends on scanning distance and the complexity of the encoded data.
 
 ## Minimum Size Rules

@@ -14,8 +14,6 @@ faq:
   - q: "Do QR codes expire?"
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(90px, 1fr)); gap: 0.4rem;"><div style="padding: 0.5rem; background: #eff6ff; border-radius: 8px; text-align: center; border: 1px solid #bfdbfe;"><div style="font-size: 0.9rem;">👤</div><div style="font-size: 0.7rem; font-weight: 600; color: #1e40af;">Name</div></div><div style="padding: 0.5rem; background: #d1fae5; border-radius: 8px; text-align: center; border: 1px solid #6ee7b7;"><div style="font-size: 0.9rem;">📱</div><div style="font-size: 0.7rem; font-weight: 600; color: #059669;">Phone</div></div><div style="padding: 0.5rem; background: #fef3c7; border-radius: 8px; text-align: center; border: 1px solid #fde68a;"><div style="font-size: 0.9rem;">✉️</div><div style="font-size: 0.7rem; font-weight: 600; color: #b45309;">Email</div></div><div style="padding: 0.5rem; background: #fce7f3; border-radius: 8px; text-align: center; border: 1px solid #f9a8d4;"><div style="font-size: 0.9rem;">🌐</div><div style="font-size: 0.7rem; font-weight: 600; color: #be185d;">URL</div></div><div style="padding: 0.5rem; background: #ede9fe; border-radius: 8px; text-align: center; border: 1px solid #c4b5fd;"><div style="font-size: 0.9rem;">🏢</div><div style="font-size: 0.7rem; font-weight: 600; color: #6d28d9;">Company</div></div></div>
 Adding a QR code to your business card is an efficient way to share your contact information digitally. When someone scans the code, your contact details are automatically added to their phone.
 
 ## vCard QR Codes

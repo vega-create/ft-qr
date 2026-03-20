@@ -14,8 +14,6 @@ faq:
   - q: "Do QR codes expire?"
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
-
-<div style="margin: 2rem 0; background: #fef2f2; border-radius: 12px; padding: 1.2rem; border: 1px solid #fecaca;"><div style="font-weight: 700; font-size: 0.85rem; color: #991b1b; margin-bottom: 0.8rem;">QR Code Threat Levels</div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 90%; background: #dc2626; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Quishing (phishing via QR) — HIGH</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 75%; background: #f59e0b; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">URL Redirect — MEDIUM</div></div><div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.4rem;"><div style="width: 60%; background: #eab308; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Malware Download — MEDIUM</div></div><div style="display: flex; align-items: center; gap: 0.5rem;"><div style="width: 45%; background: #94a3b8; padding: 0.4rem 0.6rem; border-radius: 6px; font-size: 0.75rem; font-weight: 600; color: white;">Data Theft — LOW</div></div></div>
 As QR codes become more prevalent, so do the security risks associated with them. Understanding these risks helps you use QR codes safely and create them responsibly.
 
 ## QR Code Phishing (Quishing)

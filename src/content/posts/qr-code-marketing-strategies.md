@@ -14,8 +14,6 @@ faq:
   - q: "Do QR codes expire?"
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 0.5rem;"><div style="padding: 0.6rem; background: #eff6ff; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #bfdbfe;"><b style="color: #1e40af;">Print Ads</b><br><span style="color: #6b7280;">+27% engagement</span></div><div style="padding: 0.6rem; background: #d1fae5; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #6ee7b7;"><b style="color: #059669;">Packaging</b><br><span style="color: #6b7280;">+35% scans</span></div><div style="padding: 0.6rem; background: #fef3c7; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #fde68a;"><b style="color: #92400e;">Events</b><br><span style="color: #6b7280;">+45% leads</span></div><div style="padding: 0.6rem; background: #fce7f3; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #f9a8d4;"><b style="color: #9d174d;">Receipts</b><br><span style="color: #6b7280;">+15% reviews</span></div></div>
 QR codes have evolved from a novelty to a genuine marketing tool. The key to success is using them strategically, not just because you can, but because they add genuine value for your audience.
 
 ## Effective Use Cases

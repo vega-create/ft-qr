@@ -14,8 +14,6 @@ faq:
   - q: "Do QR codes expire?"
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.4rem;"><div style="padding: 0.6rem; background: #fecaca; border-radius: 8px; text-align: center; border: 1px solid #fca5a5;"><div style="font-weight: 800; color: #dc2626; font-size: 0.9rem;">WEP</div><div style="font-size: 0.65rem; color: #6b7280;">Broken ✗</div></div><div style="padding: 0.6rem; background: #fed7aa; border-radius: 8px; text-align: center; border: 1px solid #fdba74;"><div style="font-weight: 800; color: #ea580c; font-size: 0.9rem;">WPA</div><div style="font-size: 0.65rem; color: #6b7280;">Legacy</div></div><div style="padding: 0.6rem; background: #d1fae5; border-radius: 8px; text-align: center; border: 1px solid #6ee7b7;"><div style="font-weight: 800; color: #059669; font-size: 0.9rem;">WPA2</div><div style="font-size: 0.65rem; color: #6b7280;">Good ✓</div></div><div style="padding: 0.6rem; background: #dcfce7; border-radius: 8px; text-align: center; border: 1px solid #86efac;"><div style="font-weight: 800; color: #166534; font-size: 0.9rem;">WPA3</div><div style="font-size: 0.65rem; color: #6b7280;">Best ✓✓</div></div></div>
 Sharing WiFi passwords is one of the most practical uses for QR codes. Instead of spelling out a complex password, guests can simply scan a QR code to connect automatically.
 
 ## How WiFi QR Codes Work

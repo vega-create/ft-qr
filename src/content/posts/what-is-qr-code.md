@@ -14,8 +14,6 @@ faq:
   - q: "Do QR codes expire?"
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 0.5rem;"><div style="padding: 0.6rem; background: #1e293b; border-radius: 8px; text-align: center; border: 1px solid #334155;"><div style="font-size: 0.9rem;">◼◼◼</div><div style="font-size: 0.7rem; font-weight: 600; color: #94a3b8;">Finder Patterns</div></div><div style="padding: 0.6rem; background: #334155; border-radius: 8px; text-align: center; border: 1px solid #475569;"><div style="font-size: 0.9rem;">◻◼◻</div><div style="font-size: 0.7rem; font-weight: 600; color: #94a3b8;">Timing</div></div><div style="padding: 0.6rem; background: #475569; border-radius: 8px; text-align: center; border: 1px solid #64748b;"><div style="font-size: 0.9rem;">▣</div><div style="font-size: 0.7rem; font-weight: 600; color: #cbd5e1;">Alignment</div></div><div style="padding: 0.6rem; background: #64748b; border-radius: 8px; text-align: center; border: 1px solid #94a3b8;"><div style="font-size: 0.9rem;">▦</div><div style="font-size: 0.7rem; font-weight: 600; color: #e2e8f0;">Data Area</div></div></div>
 QR codes (Quick Response codes) are two-dimensional barcodes that store information in a pattern of black and white squares. Originally invented in 1994 by Denso Wave for tracking automotive parts in Japan, QR codes have become ubiquitous in daily life.
 
 ## How QR Codes Work

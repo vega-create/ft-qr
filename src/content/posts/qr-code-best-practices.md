@@ -14,8 +14,6 @@ faq:
   - q: "Do QR codes expire?"
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem;"><div style="padding: 0.6rem; background: #dcfce7; border-radius: 8px; text-align: center; border: 1px solid #86efac; font-size: 0.75rem;"><b style="color: #166534;">Min 2×2 cm</b><br><span style="color: #6b7280;">for scanning</span></div><div style="padding: 0.6rem; background: #dbeafe; border-radius: 8px; text-align: center; border: 1px solid #93c5fd; font-size: 0.75rem;"><b style="color: #1e40af;">High Contrast</b><br><span style="color: #6b7280;">dark on light</span></div><div style="padding: 0.6rem; background: #fef3c7; border-radius: 8px; text-align: center; border: 1px solid #fde68a; font-size: 0.75rem;"><b style="color: #92400e;">Quiet Zone</b><br><span style="color: #6b7280;">4× module border</span></div><div style="padding: 0.6rem; background: #fce7f3; border-radius: 8px; text-align: center; border: 1px solid #f9a8d4; font-size: 0.75rem;"><b style="color: #9d174d;">Test First</b><br><span style="color: #6b7280;">multiple devices</span></div></div>
 Creating effective QR codes requires attention to design, sizing, and placement. A well-designed QR code gets scanned reliably while maintaining your brand aesthetics.
 
 ## Minimum Size

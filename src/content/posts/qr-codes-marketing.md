@@ -14,8 +14,6 @@ faq:
   - q: "Do QR codes expire?"
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 0.5rem;"><div style="padding: 0.6rem; background: #dbeafe; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #93c5fd;"><div style="font-size: 0.9rem;">📦</div><b style="color: #1e40af;">Product Info</b></div><div style="padding: 0.6rem; background: #dcfce7; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #86efac;"><div style="font-size: 0.9rem;">🎁</div><b style="color: #166534;">Loyalty</b></div><div style="padding: 0.6rem; background: #fef3c7; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #fde68a;"><div style="font-size: 0.9rem;">📱</div><b style="color: #92400e;">Social Follow</b></div><div style="padding: 0.6rem; background: #fce7f3; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #f9a8d4;"><div style="font-size: 0.9rem;">🎬</div><b style="color: #9d174d;">Video</b></div><div style="padding: 0.6rem; background: #ede9fe; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #c4b5fd;"><div style="font-size: 0.9rem;">🏷️</div><b style="color: #6d28d9;">Coupon</b></div></div>
 QR codes have evolved from simple links to powerful marketing tools. When used creatively, they bridge the gap between physical and digital marketing, providing measurable engagement and interactive experiences.
 
 ## Why QR Codes Work in Marketing

@@ -14,8 +14,6 @@ faq:
   - q: "Do QR codes expire?"
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem;"><div style="padding: 0.6rem; background: #dcfce7; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #86efac;"><b style="color: #166534;">Contactless</b><br><span style="color: #6b7280;">Hygienic, no touch</span></div><div style="padding: 0.6rem; background: #dbeafe; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #93c5fd;"><b style="color: #1e40af;">Real-Time</b><br><span style="color: #6b7280;">Update instantly</span></div><div style="padding: 0.6rem; background: #fef3c7; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #fde68a;"><b style="color: #92400e;">Multi-Language</b><br><span style="color: #6b7280;">Auto-translate</span></div><div style="padding: 0.6rem; background: #fce7f3; border-radius: 8px; text-align: center; font-size: 0.75rem; border: 1px solid #f9a8d4;"><b style="color: #9d174d;">Save $$$</b><br><span style="color: #6b7280;">No reprinting</span></div></div>
 QR code menus became standard practice during the pandemic and have remained popular due to their convenience and cost savings. They allow instant menu updates without reprinting and provide a hygienic touchless experience.
 
 ## Setting Up QR Code Menus

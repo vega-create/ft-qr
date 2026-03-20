@@ -14,8 +14,6 @@ faq:
   - q: "Do QR codes expire?"
     a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
-
-<div style="margin: 2rem 0; display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.8rem;"><div style="padding: 1rem; background: #eff6ff; border-radius: 10px; border: 1px solid #bfdbfe; text-align: center;"><div style="font-size: 1.2rem;">🔄</div><div style="font-weight: 700; color: #2563eb; font-size: 0.85rem;">Dynamic QR</div><div style="font-size: 0.7rem; color: #6b7280; margin-top: 0.3rem;">Editable after print</div><div style="font-size: 0.7rem; color: #6b7280;">Track scans & location</div><div style="font-size: 0.7rem; color: #6b7280;">Requires subscription</div></div><div style="padding: 1rem; background: #f0fdf4; border-radius: 10px; border: 1px solid #bbf7d0; text-align: center;"><div style="font-size: 1.2rem;">📌</div><div style="font-weight: 700; color: #16a34a; font-size: 0.85rem;">Static QR</div><div style="font-size: 0.7rem; color: #6b7280; margin-top: 0.3rem;">Permanent, unchangeable</div><div style="font-size: 0.7rem; color: #6b7280;">No tracking</div><div style="font-size: 0.7rem; color: #6b7280;">Free forever</div></div></div>
 QR codes come in two fundamental types: static and dynamic. Understanding the difference helps you choose the right approach for your needs.
 
 ## Static QR Codes
