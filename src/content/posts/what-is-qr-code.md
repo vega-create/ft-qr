@@ -4,7 +4,24 @@ description: "What Is a QR Code? Everything You Need to Know"
 publishDate: "2026-02-01"
 category: "Guide"
 tags: ["qr-code", "basics", "technology"]
+image: "https://images.pexels.com/photos/278430/pexels-photo-278430.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+imageAlt: "High-resolution close-up of a smartphone displaying a QR code on its screen."
+faq:
+  - q: "What do I need to know about what is qr code?"
+    a: "QR codes are versatile tools for sharing information instantly. Our free QR generator creates high-quality codes for URLs, WiFi, contacts, and more — no sign-up required."
+  - q: "Can I create QR codes for free?"
+    a: "Yes! Our QR code generator is completely free to use. Create unlimited QR codes for URLs, text, WiFi, vCards, and more. Customize colors and download in high resolution."
+  - q: "Do QR codes expire?"
+    a: "Static QR codes never expire — they work as long as the linked content exists. Dynamic QR codes (from paid services) may expire based on your subscription plan."
 ---
+
+<div style="margin: 2rem 0; padding: 1.5rem; background: #f9fafb; border-radius: 12px; border: 1px solid #e5e7eb;">
+<div style="font-weight: 700; font-size: 1rem; margin-bottom: 1rem; color: #111827;">📱 What Is Qr Code</div>
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;"><span style="width: 120px; font-size: 0.8rem; color: #374151;">URL Link</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 95%; height: 100%; background: linear-gradient(90deg, #3b82f6, #60a5fa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Most common</div></div></div>
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;"><span style="width: 120px; font-size: 0.8rem; color: #374151;">Text</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 70%; height: 100%; background: linear-gradient(90deg, #8b5cf6, #a78bfa); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Plain text</div></div></div>
+<div style="display: flex; align-items: center; margin-bottom: 0.6rem;"><span style="width: 120px; font-size: 0.8rem; color: #374151;">WiFi</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 80%; height: 100%; background: linear-gradient(90deg, #10b981, #34d399); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Auto-connect</div></div></div>
+<div style="display: flex; align-items: center; "><span style="width: 120px; font-size: 0.8rem; color: #374151;">vCard</span><div style="flex: 1; background: #f3f4f6; border-radius: 6px; height: 24px; overflow: hidden;"><div style="width: 75%; height: 100%; background: linear-gradient(90deg, #f59e0b, #fbbf24); border-radius: 6px; display: flex; align-items: center; justify-content: flex-end; padding-right: 8px; font-size: 0.7rem; color: white; font-weight: 600;">Contact info</div></div></div>
+</div>
 
 QR codes (Quick Response codes) are two-dimensional barcodes that store information in a pattern of black and white squares. Originally invented in 1994 by Denso Wave for tracking automotive parts in Japan, QR codes have become ubiquitous in daily life.
 
